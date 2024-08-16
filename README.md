@@ -47,6 +47,10 @@ run the `chatbot.py` file and you are good to go .
 
 [Tunisian Guide Orientation Cycle Ingénieur(2024)](https://cningenieur.rnu.tn/pdf/guide_capa2023.pdf)
 
+[Dataset](https://huggingface.co/datasets/Farah21/frenchOrientation)
+
+[our final model](https://huggingface.co/saifalh/frenchOrientationModel)
+
 
 ## Contact me 
 <p>
